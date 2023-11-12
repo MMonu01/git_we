@@ -1,0 +1,2 @@
+//     const stream = fs.createReadStream("./data.json","utf-8")
+// stream.pipe(res)
